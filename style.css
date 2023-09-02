@@ -1,0 +1,24 @@
+input{
+    margin: 10px;
+    font-size: 25px;
+}
+label{
+    margin: 10px;
+    font-family: monospace;
+    font-size: 25px;
+}
+#mar{
+    margin: 10px;
+    border: 2px solid red;
+    width: 800px;
+    height: 350px;
+}
+#cus4{
+    font-size: 20px;
+}
+body{
+    background-image: url(annie-spratt-pKpipZVVEC0-unsplash.jpg);
+}
+h1{
+    font-family: monospace;
+}
